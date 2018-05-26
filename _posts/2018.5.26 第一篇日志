@@ -1,12 +1,12 @@
 ---
-layout:     post   				    # 
-title:      DEMO 				# 
-subtitle:   测试文档 #副标题
-date:       2018-05-26 				# 时间
-author:     共享灵梦 						# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
-catalog: true 						# 是否归档
-tags:								#标签
+layout:     post   
+title:      DEMO 	
+subtitle:   测试文档
+date:       2018-05-26 	
+author:     共享灵梦 		
+header-img: img/post-bg-2015.jpg
+catalog: true 			
+tags:						
     - blog
 ---
 
