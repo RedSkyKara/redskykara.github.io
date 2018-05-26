@@ -7,7 +7,7 @@ description: "苟利国家生死以，岂因祸福避趋之."
 keyword: "SR, SR Blog, 某菜鸡的博客"
 url: "http://SharedReimu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/SharedReimu/SharedReimu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
