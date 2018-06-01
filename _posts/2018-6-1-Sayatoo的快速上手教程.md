@@ -36,7 +36,7 @@ tags:
 2.2.2
 ![CIhSRe.jpg](https://s1.ax1x.com/2018/06/01/CIhSRe.jpg)
 
-### 左上角选项
+### 左上角选项栏
 
 1.5.3
 
