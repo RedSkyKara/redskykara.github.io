@@ -108,4 +108,4 @@ __Premiere、After Effects（不作示范）：__
 
 [Ae] (https://jingyan.baidu.com/article/2009576187dd34cb0721b429.html)
 
-以上就是Kbuilder tools的快速上手教程，如果有任何疑问，请联系我的QQ：1297565976。
+以上就是Kbuilder tools的快速上手教程，如果有任何疑问，请联系我，QQ：1297565976。
