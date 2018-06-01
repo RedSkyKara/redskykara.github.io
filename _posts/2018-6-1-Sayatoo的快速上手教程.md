@@ -31,13 +31,17 @@ Sayatoo是一款国人开发的制作卡拉OK字幕的软件，俗称“傻丫�
 ![CIhSRe.jpg](https://s1.ax1x.com/2018/06/01/CIhSRe.jpg)
 
 ### 左上角选项：
+
 1.5.3
+
 ![CIfUbt.jpg](https://s1.ax1x.com/2018/06/01/CIfUbt.jpg)
 
 2.1.5
+
 ![CIfdVP.jpg](https://s1.ax1x.com/2018/06/01/CIfdVP.jpg)
 
 2.2.2
+
 ![CIfwUf.jpg](https://s1.ax1x.com/2018/06/01/CIfwUf.jpg)
 
 
