@@ -104,8 +104,8 @@ __EDIUS（以6.55版作示范）：__
 __Premiere、After Effects（不作示范）：__
 我可以说，我本人不用Pr和Ae的（因为烂电脑运行起来太卡），具体操作过程可以参考下面文章。
 
-[Pr] (https://jingyan.baidu.com/article/b0b63dbf00b7dc4a483070cb.html)
+[Pr](https://jingyan.baidu.com/article/b0b63dbf00b7dc4a483070cb.html)
 
-[Ae] (https://jingyan.baidu.com/article/2009576187dd34cb0721b429.html)
+[Ae](https://jingyan.baidu.com/article/2009576187dd34cb0721b429.html)
 
 以上就是Kbuilder tools的快速上手教程，如果有任何疑问，请联系我，QQ：1297565976。
