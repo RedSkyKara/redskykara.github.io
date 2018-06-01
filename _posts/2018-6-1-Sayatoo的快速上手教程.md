@@ -66,11 +66,17 @@ __*歌词最好不要带有标点符号，因为这是卡拉OK字幕！*__
 
 ## 开录
 *从2.1.5版开始支持导入酷狗的krc，2.2.2版可以直接导入酷狗krc、QQ qrc、小灰熊ksc，可以省去录歌词的时间，但质量不一定好过自己手录*
+
 导入好歌曲和歌词后，就可以开始录歌词了。
+
 1.5.3在这里：![CIhRQH.jpg](https://s1.ax1x.com/2018/06/01/CIhRQH.jpg)
+
 2.1.5、2.2.2在这里：![CIhcWD.jpg](https://s1.ax1x.com/2018/06/01/CIhcWD.jpg)
+
 单击小圆点后，就会进入设置界面。
+
 1.5.3的界面：![CIhITP.jpg](https://s1.ax1x.com/2018/06/01/CIhITP.jpg)
+
 2.1.5、2.2.2的界面：![CIh5wt.jpg](https://s1.ax1x.com/2018/06/01/CIh5wt.jpg)
 
 解释：
