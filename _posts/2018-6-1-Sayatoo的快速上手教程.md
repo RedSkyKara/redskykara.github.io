@@ -7,8 +7,8 @@ author:     共享灵梦
 header-img: img/sayatoo2.jpg
 catalog: true
 tags:
-    -卡拉OK
-    -blog
+    卡拉OK
+    blog
 ---
 ## 前言
     Sayatoo是一款国人开发的制作卡拉OK字幕的软件，俗称“傻丫头”，它可以快速制作精准的卡拉OK字幕。
