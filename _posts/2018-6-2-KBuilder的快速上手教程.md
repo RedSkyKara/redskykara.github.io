@@ -11,6 +11,8 @@ tags:
     blog
     教程
     KBuilder
+
+description:除非是你的电脑用不了Sayatoo，否则我真的不知道现在用Kbuilder有什么意义
 ---
 ## 前言
     在Sayatoo还没出世的时候，有一种工具——KBuilder tools（以下简称KB）同样可以制作卡拉OK字幕。
