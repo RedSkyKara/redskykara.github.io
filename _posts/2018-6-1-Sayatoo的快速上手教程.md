@@ -11,6 +11,8 @@ tags:
     blog
     Sayatoo
     教程
+
+description: 然而我觉得快不了多少
 ---
 ## 前言
     Sayatoo是一款国人开发的制作卡拉OK字幕的软件，俗称“傻丫头”，它可以快速制作精准的卡拉OK字幕。
