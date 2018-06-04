@@ -34,12 +34,12 @@ jianshu_username: false
     var gitalk = new Gitalk({
 
     // gitalk的主要参数
-		clientID: `Github Application clientID`,
-		clientSecret: `Github Application clientSecret`,
-		repo: `存储你评论 issue 的 Github 仓库名`,
-		owner: 'Github 用户名',
-		admin: ['Github 用户名'],
-		id: '页面的唯一标识，gitalk会根据这个标识自动创建的issue的标签',
+		clientID: `2695cb2c5f2febffd32c`,
+		clientSecret: `2450ea30317867c57b912612e9d1b8ae8a3a9484`,
+		repo: `SharedReimu.github.io`,
+		owner: 'SharedReimu',
+		admin: ['SharedReimu'],
+		id: 'window.location.pathname',
     
     });
     gitalk.render('gitalk-container');
