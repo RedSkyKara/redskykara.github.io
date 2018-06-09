@@ -11,7 +11,7 @@ github_repo: "https://github.com/SharedReimu/SharedReimu.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "访问这个博客时建议先刷新几下"
+sidebar-about-description: "你认为我懒，懒得更新博客，其实可能是你没有刷新"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
