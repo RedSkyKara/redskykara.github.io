@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Sayatoo的快速上手教程
-subtitle:   傻丫头（无误）
+subtitle:   我TM还没一个插画师厉害
 date:       2018-06-01
 author:     共享灵梦
 header-img: img/sayatoo2.jpg
