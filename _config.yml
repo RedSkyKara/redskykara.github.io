@@ -25,26 +25,6 @@ facebook_username: false
 jianshu_username: false
 #twitter_username: false
 
-<!-- Gitalk 评论 start  -->
-
-<!-- Link Gitalk 的支持文件  -->
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-<div id="gitalk-container"></div>     <script type="text/javascript">
-    var gitalk = new Gitalk({
-
-    // gitalk的主要参数
-		clientID: `2695cb2c5f2febffd32c`,
-		clientSecret: `2450ea30317867c57b912612e9d1b8ae8a3a9484`,
-		repo: `SharedReimu.github.io`,
-		owner: 'SharedReimu',
-		admin: ['SharedReimu'],
-		id: 'window.location.pathname',
-    
-    });
-    gitalk.render('gitalk-container');
-</script>
-<!-- Gitalk end -->
 
 # Analytics settings
 # Baidu Analytics
