@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      KBuilder的快速上手教程
-subtitle:   与某金服无关
+subtitle:   新出土的气息
 date:       2018-06-02
 author:     共享灵梦
 header-img: img/kbuilder.jpg
